@@ -9,12 +9,12 @@ Provides an end-to-end hate speech detection solution.
 Supports training on various datasets and can be fine-tuned for specific domains.
 
 ## Requirements
-Python 3.6
-TensorFlow (version X.X.X)
-Keras (version X.X.X)
-NumPy (version X.X.X)
-Pandas (version X.X.X)
-scikit-learn (version X.X.X)
+* Python 3.6
+* TensorFlow (version X.X.X)
+* Keras (version X.X.X)
+* NumPy (version X.X.X)
+* Pandas (version X.X.X)
+* scikit-learn (version X.X.X)
 
 ## Usage
 ### Clone the repository:
