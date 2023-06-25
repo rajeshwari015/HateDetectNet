@@ -47,6 +47,7 @@ Accuracy: 0.85
 Precision: 0.87
 Recall: 0.83
 F1-score: 0.85
+
 ## Contributing
 Contributions to the HateDetectNet project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
