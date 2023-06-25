@@ -50,8 +50,6 @@ F1-score: 0.85
 ## Contributing
 Contributions to the HateDetectNet project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 This project utilizes the power of TensorFlow and Keras deep learning frameworks.
